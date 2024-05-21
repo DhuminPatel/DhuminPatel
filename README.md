@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DhuminPatel
+- 👋 Hi, I’m Dhumin Patel
 - 👀 I’m interested in web development and game development.
 - 🌱 I’m currently learning python, C# and JavaScript.
 - 💞️ I’m looking to collaborate on many different projects.
